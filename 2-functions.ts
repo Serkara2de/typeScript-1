@@ -1,6 +1,8 @@
 function returnMyname():string{
-    return name;
+    return myName;
+
 }
+returnMyname();
 
 function sayHello():void{
     console.log("hello");

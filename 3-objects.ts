@@ -1,4 +1,4 @@
-// declaring variable of object type
+ // declaring variable of object type
 let user: { username: string, points: number, description: string }
 
 // assign value

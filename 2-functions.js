@@ -1,4 +1,4 @@
-function returnMyname() {
+ function returnMyname() {
     return name;
 }
 function sayHello() {
