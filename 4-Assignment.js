@@ -1,5 +1,6 @@
 /*
 Try to be as explicit as possible and add Types to everything you can!
+
 let bankAccount={
     money:2000,
     deposit(value){

@@ -31,7 +31,7 @@ var Singleton = /** @class */ (function () {
         set: function (score) {
             this._temperature = score;
         },
-        enumerable: true,
+        enumerable: false,
         configurable: true
     });
     Singleton.prototype.increaseTemperature = function () {

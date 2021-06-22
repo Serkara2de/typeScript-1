@@ -14,7 +14,7 @@ var Plant = /** @class */ (function () {
                 this._species = "Default";
             }
         },
-        enumerable: true,
+        enumerable: false,
         configurable: true
     });
     return Plant;

@@ -9,6 +9,8 @@ user = {
   };
 
 console.log(user.points);
+console.log(user.description);
+
 
 //complex object
 let obj: { x: number, y: number, getSum: () => number };

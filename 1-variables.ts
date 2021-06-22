@@ -2,7 +2,7 @@
 //string
 let myName="Mike";
 let myName2:string="Mike";
-
+ 
 
 //number
 let myAge=27;
@@ -30,7 +30,7 @@ enum color {
     blue //2
 }
 
-let myColor:color=color.green;
+let myColor:color=color.gray;
 console.log(myColor);
 
 enum color2 {
@@ -50,9 +50,11 @@ let car:any="honda";
 car={model:"honda",year:2018};
 
 //union type
-let myRealAge:string|number;
+let myRealAge:string|number|boolean;
 myRealAge="30";
 myRealAge=43;
+myRealAge=true;
+
 
 //how to check types
 let finalValue:string="apple";

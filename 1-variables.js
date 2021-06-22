@@ -9,7 +9,7 @@ var hasHobbies = false;
 var hasHobbies2 = true;
 //any
 var variable = "Mike";
-variable = 5;
+variable = 4;
 //array
 var myArray = [4, 5, 300];
 myArray = [200, "apple"];
